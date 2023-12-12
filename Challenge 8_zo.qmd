@@ -4,4 +4,6 @@ format: html
 editor: visual
 ---
 
-## The last movie I watched in theatres was Renaissance
+## The last movie I watched in theaters was Renaissance.
+
+Today I ate falafel for lunch.
